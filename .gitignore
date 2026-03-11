@@ -1,0 +1,6 @@
+# 忽略保存笔记的文件
+note.txt
+
+# Python缓存
+__pycache__/
+*.pyc
